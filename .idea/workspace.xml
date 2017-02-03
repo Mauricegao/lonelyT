@@ -7,16 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f76b7b06-b3b4-4566-a94e-73bb4aec2021" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/Team_X.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/TestClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/package.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity.java" />
     </list>
     <ignored path="lonelyTwitter.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -149,7 +140,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="e#448#449#0" expanded="false" />
+                <element signature="e#475#476#0" expanded="false" />
+                <element signature="e#513#514#0" expanded="false" />
+                <element signature="e#545#546#0" expanded="false" />
+                <element signature="e#579#580#0" expanded="false" />
+                <element signature="e#609#610#0" expanded="false" />
+                <element signature="e#904#905#0" expanded="false" />
+                <element signature="e#960#961#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -2187,6 +2187,14 @@
       <option name="presentableId" value="Default" />
       <updated>1485477666289</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lab4">
+      <created>1486085298981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1486085298981</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2237,6 +2245,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -2311,7 +2323,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#448#449#0" expanded="false" />
+            <element signature="e#475#476#0" expanded="false" />
+            <element signature="e#513#514#0" expanded="false" />
+            <element signature="e#545#546#0" expanded="false" />
+            <element signature="e#579#580#0" expanded="false" />
+            <element signature="e#609#610#0" expanded="false" />
+            <element signature="e#904#905#0" expanded="false" />
+            <element signature="e#960#961#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2399,7 +2420,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#448#449#0" expanded="false" />
+            <element signature="e#475#476#0" expanded="false" />
+            <element signature="e#513#514#0" expanded="false" />
+            <element signature="e#545#546#0" expanded="false" />
+            <element signature="e#579#580#0" expanded="false" />
+            <element signature="e#609#610#0" expanded="false" />
+            <element signature="e#904#905#0" expanded="false" />
+            <element signature="e#960#961#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2476,7 +2506,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#448#449#0" expanded="false" />
+            <element signature="e#475#476#0" expanded="false" />
+            <element signature="e#513#514#0" expanded="false" />
+            <element signature="e#545#546#0" expanded="false" />
+            <element signature="e#579#580#0" expanded="false" />
+            <element signature="e#609#610#0" expanded="false" />
+            <element signature="e#904#905#0" expanded="false" />
+            <element signature="e#960#961#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2568,7 +2607,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#448#449#0" expanded="false" />
+            <element signature="e#475#476#0" expanded="false" />
+            <element signature="e#513#514#0" expanded="false" />
+            <element signature="e#545#546#0" expanded="false" />
+            <element signature="e#579#580#0" expanded="false" />
+            <element signature="e#609#610#0" expanded="false" />
+            <element signature="e#904#905#0" expanded="false" />
+            <element signature="e#960#961#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
